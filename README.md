@@ -30,8 +30,8 @@ Users should be able to:
 ![active](./images/active.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/manjubhaskar02/FM-6-product-preview-card-component](https://github.com/manjubhaskar02/FM-6-product-preview-card-component)
+- Live Site URL: [https://manjubhaskar02.github.io/FM-6-product-preview-card-component/](https://manjubhaskar02.github.io/FM-6-product-preview-card-component/)
 
 ## My process
 
