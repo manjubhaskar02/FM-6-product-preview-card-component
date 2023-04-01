@@ -10,23 +10,21 @@
 body {
     width: 1440px;
     margin: 0 auto;
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
     background-color: var(--cream);
+
 }
 
 .flex {
     display: flex;
 }
-
 .card {
     display: flex;
-    width: 51%;
-    margin: auto;
+    width: 43%;
+    margin: 150px auto;
     height: 460px;
     border-radius: 15px;
     overflow: hidden;
+
 }
 
 .product-img {
